@@ -1,6 +1,6 @@
 ## 文章详情
-> 关于相似度文章，来源ACL-2020、ACL2019、EMNLP-2020、EMNLP-2019、IJCNLP-2019
->1-10 similarity、11-14 bert、15-20 topic
+>来源：ACL-2020、ACL2019、IEEE、EMNLP-2020、EMNLP-2019、IJCNLP-2019
+>分类：1-10 similarity、11-14 bert、15-20 topic
 #### 1、SpellGCN: Incorporating Phonological and Visual Similarities into Language Models for Chinese Spelling Check
 - 作者：Xingyi Cheng, Weidi Xu, Kunlong Chen, Shaohua Jiang, Feng Wang, Taifeng Wang, Wei Chu, Yuan Qi
 - 作者信息：alibaba-inc
@@ -43,25 +43,30 @@
     - 2Microsoft Research
     - 3Allen Institute for Artificial Intelligence
 - 发表时间：2019
-- 论文代码：无
+- 论文代码：https://github.com/src-d/wmd-relax	https://github.com/eaclark07/sms
 - 论文地址：https://www.aclweb.org/anthology/P19-1264/
 - 会议名称：ACL-2019
 
-#### 6、Learning from Unlabelled Data for Clinical Semantic Textual Similarity
-- 作者：Yuxia Wang Karin Verspoor Timothy Baldwin
-- 作者信息：School of Computing and Information Systems The University of Melbourne Victoria, Australia
-- 发表时间：2020
-- 代码论文：无
-- 论文地址：https://www.aclweb.org/anthology/2020.clinicalnlp-1.25/
-- 会议名称：EMNLP-2020
-
-#### 7、Translating Similar Languages: Role of Mutual Intelligibility in Multilingual Transformers
-- 作者：Ife Adebara El Moatez Billah Nagoudi Muhammad Abdul Mageed
-- 作者信息：Natural Language Processing Lab University of British Columbia
+#### 6、 Using Fuzzy Set Similarity in Sentence Similarity Measures
+- 作者：Valerie Cross | Valeria Mokrenko | Keeley Crockett | Naeemeh Adel
+- 作者信息：
+    - Computer Science and Software Engineering Miami University Oxford, OH USA
+    - Computational Intelligence Lab Manchester Metropolitan University Manchester, UK
 - 发表时间：2020
 - 论文代码：无
-- 论文地址：https://www.aclweb.org/anthology/2020.wmt-1.42/
-- 会议名称：EMNLP-2020 | WMT-2020
+- 论文地址：https://ieeexplore.ieee.org/document/9177836
+- 会议名称：IEEE
+
+#### 7、Use Case Diagram Similarity Measurement: A New Approach
+- 作者：Reza Fauzan | Daniel Siahaan | Siti Rochimah | Evi Triandini
+- 作者信息： 
+    - Informatics Department Institut Teknologi Sepuluh Nopember, Politeknik Negeri Banjannasin Surabaya, Indonesia
+    - Informatics Department Institut Teknologi Sepuluh Nopember Surabaya, Indonesia
+    - Information Systems STMIK STIKOM Bali Bali, Indonesia
+- 发表时间：2019
+- 论文代码：无
+- 论文地址：https://ieeexplore.ieee.org/document/8850978
+- 会议名称：IEEE
 
 #### 8、On Efficient Retrieval of Top Similarity Vectors
 - 作者：Shulong Tan, Zhixin Zhou, Zhaozhuo Xu, Ping Li
@@ -121,16 +126,13 @@
 - 论文地址：https://www.aclweb.org/anthology/2020.acl-main.423/
 - 会议名称：ACL-2020
 
-#### 14、Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT
-- 作者：Zhiyong Wu1, Yun Chen2, Ben Kao1, Qun Liu3
-- 作者信息：
-    - 1The University of Hong Kong, Hong Kong, China
-    - 2Shanghai University of Finance and Economics, Shanghai, China
-    - 3Huawei Noah’s Ark Lab, Hong Kong, China
-- 发表时间：2020
+#### 14、Target-Dependent Sentiment Classification with BERT
+- 作者：ZHENGJIE GAO, AO FENG, XINYU SONG AND XI WU 
+- 作者信息：Department of Computer Science, Chengdu University of Information Technology, Chengdu 610225, China
+- 发表时间：2019
 - 论文代码：无
-- 论文地址：https://www.aclweb.org/anthology/2020.acl-main.383/
-- 会议名称：ACL-2020
+- 论文地址：https://ieeexplore.ieee.org/document/8864964
+- 会议名称：IEEE
 
 #### 15、Tree-Structured Neural Topic Model
 - 作者：Masaru Isonuma1 Junichiro Mori1 Danushka Bollegala2 Ichiro Sakata1 
